@@ -1,5 +1,0 @@
-
-Starting training ...
-
-Epoch = 0 Rzk = 472.725403 eq: 22.307983:   0%|                                                                                                                | 0/11 [00:01<?, ?it/s][34m[1mwandb[39m[22m: Ctrl + C detected. Stopping sweep.
-Epoch = 0 Rzk = 472.725403 eq: 22.307983:   0%|                                                                                                                | 0/11 [00:04<?, ?it/s]
