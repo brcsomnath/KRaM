@@ -1,0 +1,80 @@
+wandb_version: 1
+
+batch_size:
+  desc: null
+  value: 200
+dataset_name:
+  desc: null
+  value: glove
+eps:
+  desc: null
+  value: 0.5
+gam1:
+  desc: null
+  value: 1
+gam2:
+  desc: null
+  value: 1
+lambda_:
+  desc: null
+  value: 1
+learning_rate:
+  desc: null
+  value: 0.001
+linear:
+  desc: null
+  value: false
+momentum:
+  desc: null
+  value: 0.9
+num_epochs:
+  desc: null
+  value: 10
+num_layers:
+  desc: null
+  value: 3
+scale:
+  desc: null
+  value: 1
+sigma:
+  desc: null
+  value: 0.01
+weight_decay:
+  desc: null
+  value: 0.0005
+_wandb:
+  desc: null
+  value:
+    python_version: 3.8.5
+    cli_version: 0.15.2
+    framework: huggingface
+    huggingface_version: 4.12.5
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1684769146.658725
+    t:
+      1:
+      - 1
+      - 3
+      - 5
+      - 11
+      - 49
+      - 53
+      - 55
+      2:
+      - 1
+      - 3
+      - 5
+      - 11
+      - 49
+      - 53
+      - 55
+      3:
+      - 2
+      - 23
+      - 37
+      4: 3.8.5
+      5: 0.15.2
+      6: 4.12.5
+      8:
+      - 5

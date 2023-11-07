@@ -1,0 +1,6 @@
+
+Starting training ...
+Epoch = 0 Rzk = 461.751221 eq: 103.078308:   0%|                                                                                                                                                               | 0/201 [00:01<?, ?it/s]/playpen-ssd/somnath/miniconda3/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (20) reached and the optimization hasn't converged yet.
+  warnings.warn(
+Epoch = 1 Rzk = 520.444946 eq: 137.617065:   0%|▊                                                                                                                                                      | 1/201 [00:03<11:42,  3.51s/it][34m[1mwandb[39m[22m: Ctrl + C detected. Stopping sweep.
+Epoch = 1 Rzk = 520.444946 eq: 137.617065:   0%|▊                                                                                                                                                      | 1/201 [00:03<12:35,  3.78s/it]

@@ -1,0 +1,30 @@
+wandb_version: 1
+
+batch_size:
+  value: 200
+dataset_name:
+  value: glove
+eps:
+  value: 0.5
+gam1:
+  value: 1
+gam2:
+  value: 1
+lambda_:
+  value: 1
+learning_rate:
+  value: 0.001
+linear:
+  value: false
+momentum:
+  value: 0.9
+num_epochs:
+  value: 200
+num_layers:
+  value: 3
+scale:
+  value: 1
+sigma:
+  value: 0.1
+weight_decay:
+  value: 0.0005
